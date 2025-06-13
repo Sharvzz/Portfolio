@@ -240,7 +240,7 @@ header ul a{
     0%{
         opacity: 0;
     }
-    50%{
+    50%{ 
         opacity: 1;
     }
     100%{
@@ -248,6 +248,7 @@ header ul a{
         opacity: 0;
     }
 }
+
 
 
 
